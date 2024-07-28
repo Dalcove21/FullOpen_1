@@ -23,7 +23,7 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
-    server-->>browser: all de data in de J": "2023-1-1" }, ... ]
+    server-->>browser: all de data in de Json. ": "2023-1-1" }, ... ]
     deactivate server
     
 
